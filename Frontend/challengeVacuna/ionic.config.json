@@ -1,0 +1,7 @@
+{
+  "name": "challengeVacuna",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
